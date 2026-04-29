@@ -64,6 +64,8 @@
   .text {
     font-size: 14px;
     margin-top: 30px;
+    justify-content: left;
+    align-items: left;
   }
   .img-fluid {
     width: 100%;
