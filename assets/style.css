@@ -28,11 +28,11 @@
     margin-top: 0;
   }
   .heart {
-    width: 200px;
-    height: 200px;
+    width: 1920px;
+    height: 1080px;
     position: relative;
     display: inline-block;
-    margin-bottom: 15px;
+    margin-bottom: 5px;
     background-repeat:  no-repeat;
     background-size: 100%;
   }
